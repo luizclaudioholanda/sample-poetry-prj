@@ -1,0 +1,16 @@
+site_name: Sample Poetry Project
+repo_url: https://github.com/luizclaudioholanda/sample-poetry-prj
+repo_name: luizclaudioholanda/sample-poetry-prj
+edit_uri: tree/master/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
